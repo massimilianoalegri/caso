@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>spidearman</title>
+<br><br>Per quanto riguarda la storia, Marvel's Spider-Man 2 è ambientato circa dieci mesi dopo gli eventi di Spider-Man: Miles Morales e introduce nuovi famosi villain della serie, tra cui, come già ampiamente anticipato, Kraven, Lizard e, ovviamente, il temibile Venom..
+<body>
+<h1><font color="viola">spidearman</font></h1>
+<img src="spiderman.jfif">
